@@ -1,5 +1,5 @@
 # クラス定義
-class Person:
+class Player:
     def show_name(self):
         print("I am " + self.name)
     
@@ -8,17 +8,17 @@ class Person:
 
 
 # インスタンス作成
-p1 = Person()
-p1.name = "Micky"
-p1.age = 17
-p1.show_name()
-p1.show_age()
+player1 = Player()
+player1.name = "Micky"
+player1.age = 17
+player1.show_name()
+player1.show_age()
 
 print("====")
 
 # インスタンス作成
-p2 = Person()
-p2.name = "Minny"
-p2.age = 16
-p2.show_name()
-p2.show_age()
+player2 = Player()
+player2.name = "Minny"
+player2.age = 16
+player2.show_name()
+player2.show_age()

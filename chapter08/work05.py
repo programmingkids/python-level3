@@ -4,9 +4,10 @@ class Character:
     
     def __init__(self, name):
         self.name = name
-        
-    def show_name(self):
+    
+    def show(self):
         print("I am " + self.name)
+        print("Money is " + str(Character.money))
     
     @classmethod
     def add_money(cls, money):
@@ -19,9 +20,7 @@ class Character:
 
 # インスタンス作成
 c1 = Character("John")
-c1.show_name()
 c2 = Character("Bob")
-c2.show_name()
 
 # クラスメソッド呼び出し
 Character.add_money(10)
@@ -29,5 +28,11 @@ Character.add_money(20)
 Character.add_money(30)
 
 # クラスメソッド呼び出し
+print("クラスメソッド")
 money = Character.get_money()
-print("money is " + str(money))
+print("Money is " + str(money))
+
+# インスタンスメソッドで確認
+print("インスタンスメソッド")
+c1.show()
+c2.show()

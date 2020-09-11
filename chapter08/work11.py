@@ -32,7 +32,7 @@ class Dragon (Enemy) :
         print(str(self.attackPoint) + "のダメージを与えた")
         
 
-class DrakKnight (Enemy) :
+class DarkKnight (Enemy) :
     def attack(self):
         print(self.name + "によるイナズマの攻撃")
         print(str(self.attackPoint) + "のダメージを与えた")
@@ -45,6 +45,6 @@ dragon.attack()
 
 print("====")
 
-darkKnight = DrakKnight("悪魔の騎士", 25)
+darkKnight = DarkKnight("悪魔の騎士", 25)
 darkKnight.show()
 darkKnight.attack()

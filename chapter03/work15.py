@@ -9,5 +9,3 @@
 
 numbers = [4,3,6,2,9,5]
 
-numbers = [x * 3 for x in numbers]
-print(numbers)

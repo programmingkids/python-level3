@@ -7,5 +7,3 @@
 
 members = ["Ariel","Bell","Chris","Donna","Emmy"]
 
-members.reverse()
-print(members)

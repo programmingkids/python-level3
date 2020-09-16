@@ -7,5 +7,3 @@
 
 numbers = [5,3,7,13,10,11,4]
 
-numbers.sort(reverse=True)
-print(numbers)

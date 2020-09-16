@@ -9,5 +9,3 @@
 
 numbers = [4,3,6,2,9,5]
 
-numbers = [x for x in numbers if x % 3 == 0]
-print(numbers)

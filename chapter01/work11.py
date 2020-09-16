@@ -5,5 +5,3 @@ I like "New York Yankees"
 I like B'z
 """
 
-print("I like \"New York Yankees\"")
-print('I like B\'z')

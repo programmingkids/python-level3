@@ -9,7 +9,7 @@ numberは10以上、かつ20以下で
 
 number = 15
 
-if 10 <= number <= 20:
+if             :
     print("numberは10以上、かつ20以下です")
 else:
     print("numberは10以上、かつ20以下ではありません")

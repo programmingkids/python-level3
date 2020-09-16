@@ -5,5 +5,3 @@ person1 = {
 }
 print(person1)
 
-person2 = dict(person1)
-print(person2)

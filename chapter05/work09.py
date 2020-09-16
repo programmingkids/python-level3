@@ -18,5 +18,3 @@ data2 = {
     "京都" : 85,
 }
 
-data1.update(data2)
-print(data1)

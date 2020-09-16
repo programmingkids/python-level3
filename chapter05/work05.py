@@ -9,5 +9,3 @@ nations2 = {
     "Germany" : "Berlin",
 }
 
-nations1.update(nations2)
-print(nations1)

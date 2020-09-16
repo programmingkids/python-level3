@@ -16,6 +16,3 @@ characters = {
 
 total = 0
 
-for value in characters.values():
-    total += value
-print(total)

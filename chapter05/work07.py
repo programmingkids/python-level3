@@ -5,5 +5,3 @@ nations = {
     "Spain" : "マドリード",
 }
 
-for value in nations.values():
-    print(value)

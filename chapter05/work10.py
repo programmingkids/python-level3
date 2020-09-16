@@ -15,5 +15,3 @@ characters = {
     "Bell" : "賢者",
 }
 
-for name in characters.keys():
-    print(name)

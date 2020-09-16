@@ -10,6 +10,3 @@
 
 sports = ("野球","サッカー","テニス","ダンス")
 
-for i, v in enumerate(sports):
-    print( str(i) + " --> " + v)
-

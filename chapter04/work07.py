@@ -8,4 +8,3 @@
 
 fruits = ("apple","orange","melon","grape","banana")
 
-print(fruits[:3])

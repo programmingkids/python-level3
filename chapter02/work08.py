@@ -10,5 +10,3 @@ peach
 
 fruits = ["apple","orange","melon","peach"]
 
-for i in fruits:
-    print(i)

@@ -6,5 +6,3 @@ scores = {
     "社会" : 82,
 }
 
-for key in scores :
-    print(key)

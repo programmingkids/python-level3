@@ -8,7 +8,3 @@ Anna
 
 members = ["Micky","Minny","Elsa","Donald","Anna"]
 
-for member in members:
-    if member == "Elsa" or member == "Anna":
-        print(member)
-

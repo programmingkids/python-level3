@@ -11,4 +11,3 @@
 member1 = {"山田", "佐藤", "田中"}
 member2 = {"山本", "田中", "高橋"}
 
-print(member1.union(member2))

@@ -10,4 +10,3 @@
 numbers1 = {4,3,5,7,9}
 numbers2 = {2,3,9,6,1,4}
 
-print(numbers1.intersection(numbers2))

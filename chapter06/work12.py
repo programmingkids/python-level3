@@ -10,4 +10,3 @@
 names1 = {"Micky","Donald","Elsa","Ariel"}
 names2 = {"Minny","Elsa","Anna","Donald"}
 
-print(names1.symmetric_difference(names2))

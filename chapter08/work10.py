@@ -23,16 +23,9 @@ class Character:
 
 
 # 以下の部分にクラスを定義します
-class Hero (Character):
-    def attack(self):
-        print(self.name + "の攻撃")
-        print("勇者は勇敢に戦った")
-    
 
-class Magician (Character):
-    def attack(self):
-        print(self.name + "の攻撃")
-        print("魔法使いは魔法で戦った")
+
+
 
 
 # 以下の部分は修正してはいけません

@@ -26,17 +26,11 @@ class Enemy:
 
 
 # 以下の部分にクラスを定義します
-class Dragon (Enemy) :
-    def attack(self):
-        print(self.name + "による巨大な炎の攻撃")
-        print(str(self.attackPoint) + "のダメージを与えた")
-        
 
-class DarkKnight (Enemy) :
-    def attack(self):
-        print(self.name + "によるイナズマの攻撃")
-        print(str(self.attackPoint) + "のダメージを与えた")
     
+
+
+
 
 # 以下の部分は修正してはいけません
 dragon = Dragon("ファイヤードラゴン", 20)

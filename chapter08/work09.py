@@ -11,14 +11,9 @@
 """
 
 # 以下の部分にクラスを定義します
-class Book:
-    def __init__(self, title, price):
-        self.title = title
-        self.price = price
-    
-    def show(self):
-        print("本名：" + self.title)
-        print("金額：" + str(self.price))
+
+
+
 
 
 # 以下の部分は修正してはいけません

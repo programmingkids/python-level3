@@ -9,5 +9,3 @@
 
 data = [3,6,8,14,2,10,13,11,5]
 
-result = list(filter(lambda n : n % 2 == 0, data))
-print(result)

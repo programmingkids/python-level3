@@ -15,10 +15,9 @@ history => 86
 """
 
 # 以下の部分に関数を定義します
-def show_scores(**scores):
-    for key, value in scores.items():
-        print(key + " => " + str(value))
-    
+
+
+
 
 # これ以降は修正してはいけません
 show_scores(english=90, math=88, science=94, history=86)

@@ -15,9 +15,8 @@ Scot
 """
 
 # 以下の部分に関数を定義します
-def show_members(*members):
-    for member in members:
-        print(member)
+
+
 
 
 # これ以降は修正してはいけません

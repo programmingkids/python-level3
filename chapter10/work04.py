@@ -9,5 +9,4 @@
 
 data = [4,3,6,8,12,7,10,2]
 
-data = [i for i in data if i % 4 == 0]
-print(data)
+

@@ -11,6 +11,4 @@ yellow
 
 colors = ["red","pink","green","black","yellow"]
 
-for color in colors:
-    print(color)
 

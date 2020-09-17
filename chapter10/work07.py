@@ -10,4 +10,4 @@
 colors1 = {"Red","Blue","Pink"}
 colors2 = {"Green","Pink","Red", "Purple"}
 
-print(colors1.union(colors2))
+

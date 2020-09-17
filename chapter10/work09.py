@@ -9,5 +9,5 @@
 
 data = [2,3,7,4,8]
 
-result = list(map(lambda n : n * 3, data))
-print(result)
+
+

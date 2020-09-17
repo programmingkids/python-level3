@@ -13,9 +13,8 @@
 """
 
 # 以下の部分に関数を定義します
-def get_triangle_area(base, height):
-    area = (base * height) / 2
-    return area
+
+
 
 
 # これ以降は修正してはいけません

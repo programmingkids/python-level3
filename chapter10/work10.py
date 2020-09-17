@@ -19,10 +19,10 @@ class Singer:
 
 
 # 以下の部分にクラスを定義します
-class Idol (Singer):
-    def sing(self):
-        print(self.name + "はアイドルです")
-        print("楽しく歌っておどります")
+
+
+
+
 
 
 # 以下の部分は修正してはいけません

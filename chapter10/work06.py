@@ -15,5 +15,4 @@ monsters = {
     "マシンヘッド" : "イナズマの攻撃",
 }
 
-for key, value in monsters.items():
-    print(key + "の必殺技：" + value)
+

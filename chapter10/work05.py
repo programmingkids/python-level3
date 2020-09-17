@@ -18,5 +18,4 @@ nations2 = {
     "Italy" : "Roma",
 }
 
-nations1.update(nations2)
-print(nations1)
+

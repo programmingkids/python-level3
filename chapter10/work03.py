@@ -9,5 +9,4 @@
 
 numbers = [7,4,9,2,5,10,6]
 
-numbers.sort()
-print(numbers)
+
